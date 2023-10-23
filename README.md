@@ -1,5 +1,5 @@
 # Casino0.1
 hey!
 this is a very basic "casino" code.
-feal free to use/change/share it:)
-also if you find anny issues with it just say.
+I've written this to experiment with "try & catch" in C# and also because I was bored in computer class
+
